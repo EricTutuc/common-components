@@ -1,0 +1,1 @@
+Contanis the html and css to a simple-footer.
